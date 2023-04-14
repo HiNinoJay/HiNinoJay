@@ -3,17 +3,17 @@
 </div>
 
 <br>
-👦A man
+👦 A man
 <br>
-🇨🇳A chinese guy
+🇨🇳 A chinese guy
 <br>
-🍹A alcoholic who likes to drink
+🍹 A alcoholic who likes to drink
 <br>
-💻A programmer who mainly use java
+💻 A programmer who mainly use java
 <br>
-📖A reader who likes to read
+📖 A reader who likes to read
 <br>
-🖊️A person who likes to write 
+🖊️ A person who likes to write 
 
 
 
