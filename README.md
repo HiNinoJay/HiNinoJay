@@ -5,9 +5,9 @@
 <br>
 👦A man
 <br>
-🇨🇳A Chinese guy
+🇨🇳A chinese guy
 <br>
-🍹A Alcoholic who likes to drink
+🍹A alcoholic who likes to drink
 <br>
 💻A programmer who mainly use java
 <br>
