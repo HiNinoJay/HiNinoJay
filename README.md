@@ -2,9 +2,18 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=hininojay&show_icons=true&theme=radical" />
 </div>
 
-Hello,thank you.
 <br>
-Thank you very much.
+👦A man
+<br>
+🇨🇳A Chinese guy
+<br>
+🍹A Alcoholic who likes to drink
+<br>
+💻A programmer who mainly use java
+<br>
+📖A reader who likes to read
+<br>
+🖊️A person who likes to write 
 
 
 
