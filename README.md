@@ -1,8 +1,9 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hininojay&show_icons=true&theme=radical" />
-</a>
+<div class="text-align:center;">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=hininojay&show_icons=true&theme=radical" />
+</div>
 
 Hello,thank you.
+<br>
 Thank you very much.
 
 
