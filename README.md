@@ -11,7 +11,7 @@
 <br>
 💻 A programmer who mainly use java
 <br>
-📖 A reader who loves to read literature
+📖 A reader who loves to read Literature, Philosophy
 <br>
 🖊️ A person who loves to write everything
 
