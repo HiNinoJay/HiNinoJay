@@ -5,15 +5,15 @@
 <br>
 👦 A man
 <br>
-🇨🇳 A chinese guy
+🇨🇳 A chinese guy who love fresh things
 <br>
-🍹 A alcoholic who likes to drink
+🍹 A alcoholic who loves to drink cocktails
 <br>
 💻 A programmer who mainly use java
 <br>
-📖 A reader who likes to read
+📖 A reader who loves to read literature
 <br>
-🖊️ A person who likes to write 
+🖊️ A person who loves to write everything
 
 
 
