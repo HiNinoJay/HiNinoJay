@@ -1,6 +1,9 @@
-<div class="text-align:center;">
+<div align="center">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=hininojay&show_icons=true&theme=radical" />
+  
 </div>
+
+<div align="center">
 
 <br>
 👦 A man
@@ -15,5 +18,5 @@
 <br>
 🖊️ A person who loves to write everything
 
-
+</div>
 
