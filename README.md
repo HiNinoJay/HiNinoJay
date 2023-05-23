@@ -16,10 +16,6 @@
 
 ---
 
-<br>
-<br>
-<br>
-<br>
 
 🍺Now I am actively maintaining the [hexo-theme-A4](https://github.com/HiNinoJay/hexo-theme-A4) project, a beautiful hexo-based blog theme.  
 
@@ -30,6 +26,7 @@
 
 <div align="center">
       📧If you have any questions, please send a message to my <a href="mailto:welcome@ninojay.top" title="welcome@ninojay.top">email</a>📧
+      <br>
       <br>
       🧑‍🤝‍🧑Welcome to follow me. I love to make friends.🧑‍🤝‍🧑
 </div>
