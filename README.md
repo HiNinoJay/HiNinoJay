@@ -16,4 +16,8 @@
 <br>
 🖊️ A person who loves to write everything
 
+<br>
+<br>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiNinoJay&layout=compac" />
 
