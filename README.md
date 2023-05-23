@@ -18,17 +18,11 @@
 🖊️ A person who loves to write everything
 
 ---
-🍺Now I am actively maintaining the hexo-theme-A4 project.  
+🍺Now I am actively maintaining the hexo-theme-A4 project, a beautiful hexo-based blog theme.  
 📧If you have any questions, please send a message to my [email](welcome@ninojay.top).  
 🧑‍🤝‍🧑by the way, welcome to follow me. 
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 ---
 <div align="center">
