@@ -1,5 +1,6 @@
 
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=hininojay&show_icons=true&theme=radical" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiNinoJay&layout=compac" />
+
   
 
 
@@ -18,6 +19,12 @@
 
 <br>
 <br>
+<br>
+<br>
+<br>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiNinoJay&layout=compac" />
+
+---
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=hininojay&show_icons=true&theme=radical" />
 
