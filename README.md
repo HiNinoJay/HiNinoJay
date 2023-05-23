@@ -24,9 +24,9 @@
 <br>
 
 <div align="center">
-      📧If you have any questions, please send a message to my <a href="welcome@ninojay.top">email</a>📧
+      📧If you have any questions, please send a message to my <a href="mailto:welcome@ninojay.top" title="welcome@ninojay.top">email</a>📧
       <br>
-      🧑‍🤝‍🧑by the way, welcome to follow me.🧑‍🤝‍🧑
+      🧑‍🤝‍🧑Welcome to follow me. I love to make friends.🧑‍🤝‍🧑
 </div>
 
 ---
