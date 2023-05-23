@@ -1,8 +1,5 @@
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiNinoJay&layout=compac" />
-
-  
-
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiNinoJay&layout=pie" />
 
 <br>
 👦 A man
@@ -18,6 +15,10 @@
 🖊️ A person who loves to write everything
 
 ---
+
+<br>
+<br>
+
 🍺Now I am actively maintaining the [hexo-theme-A4](https://github.com/HiNinoJay/hexo-theme-A4) project, a beautiful hexo-based blog theme.  
 
 <br>
