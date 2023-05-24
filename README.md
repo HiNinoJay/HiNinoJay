@@ -1,5 +1,5 @@
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiNinoJay&layout=pie" />
+<img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HiNinoJay&layout=pie" />
 
 <br>
 👦 A man
@@ -35,6 +35,7 @@
 
 ---
 
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hininojay&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hininojay&show_icons=true&theme=radical" />
 </div>
