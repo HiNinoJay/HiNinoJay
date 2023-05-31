@@ -33,6 +33,11 @@
 
 ---
 
+<div align = "center">
+      <img src = "https://komarev.com/ghpvc/?username=HiNinoJay" />
+</div>
+                                                                
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hininojay&show_icons=true&theme=radical" />
