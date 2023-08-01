@@ -42,3 +42,11 @@
 <div align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hininojay&show_icons=true&theme=radical" />
 </div>
+
+<div align="center">
+      <a href="https://wakatime.com"><img src="https://wakatime.com/share/@0dd1f078-1ad2-4dd8-a132-fa9f8eb8848d/9c374987-8592-4d74-be74-6354bdd874af.png" /></a>
+</div>
+
+<div align="center">
+      <a href="https://wakatime.com"><img src="https://wakatime.com/share/@0dd1f078-1ad2-4dd8-a132-fa9f8eb8848d/2671c60b-416d-44d4-8d42-30a722f1d0c9.png" /></a>
+</div>
