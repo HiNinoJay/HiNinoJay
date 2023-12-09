@@ -4,15 +4,15 @@
 <br>
 👦 A man
 <br>
-🇨🇳 A chinese guy who love fresh things
+🇨🇳 A Chinese guy who loves fresh things
 <br>
-🍹 A alcoholic who loves to drink cocktails
+🍹 An alcoholic who loves to drink cocktails
 <br>
-💻 A programmer who mainly use java
+💻 A programmer who mainly uses Java
 <br>
-📖 A reader who loves to read Literature, Philosophy
+📖 A reader who loves to read literature and philosophy
 <br>
-🖊️ A person who loves to write everything
+🖊️ A person who loves to write everything.
 
 ---
 
