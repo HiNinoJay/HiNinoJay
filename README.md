@@ -51,6 +51,4 @@
 
 <br>
 
-<div align="center">
-      <a href="https://wakatime.com"><img src="https://wakatime.com/share/@0dd1f078-1ad2-4dd8-a132-fa9f8eb8848d/2671c60b-416d-44d4-8d42-30a722f1d0c9.png" /></a>
-</div>
+
